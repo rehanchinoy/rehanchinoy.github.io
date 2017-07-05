@@ -4,9 +4,9 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+	"base/base",
 	"bourbon/bourbon",
 	"neat/neat",
-	"base/base",
-	"top",
-	"gallery";
+	"gallery",
+	"top";
 ;
