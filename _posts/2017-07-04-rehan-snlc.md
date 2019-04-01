@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Systems Neurobiology Laboratory: Salk Institute"
-date:   2017-07-04 17:54:42 -0800
----
-During the summer of 2017, I had the pleasure of working under the mentorship of Matthew Jacobs at the Systems Neurobiology Laboratory led by Dr. Edward Callaway at the Salk Institute of Biological Studies.
